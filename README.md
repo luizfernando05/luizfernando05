@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá! Eu sou o Luiz Fernando 👋
+
+Atualmente sou estudante do curso de Bacharelado em Sistemas de Informações na UFERSA/Angicos. Além dos meus estudos acadêmicos, passo parte do meu tempo livre aprendendo novas tecnologias e trabalhando em projetos pessoais. Estou sempre buscando aprender novas habilidades e tecnologias. Atualmente, estou focado em aprofundar meu conhecimento em desenvolvimento Front-end.
 
 <!--
 **luizfernando05/luizfernando05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
