@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Luiz Fernando 👋
 
-Atualmente sou estudante do curso de Bacharelado em Sistemas de Informações na UFERSA/Angicos. Além dos meus estudos acadêmicos, passo parte do meu tempo livre aprendendo novas tecnologias e trabalhando em projetos pessoais. Estou sempre buscando aprender novas habilidades e tecnologias. Atualmente, estou focado em aprofundar meu conhecimento em desenvolvimento Front-end.
+Atualmente sou estudante do curso de Bacharelado em Sistemas de Informações na UFERSA/Angicos. Além dos meus estudos acadêmicos, passo parte do meu tempo livre aprendendo novas tecnologias e trabalhando em projetos pessoais. Estou sempre buscando aprender novas habilidades e tecnologias. Atualmente, estou focado em aprofundar meu conhecimento em desenvolvimento Full Stack.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&style=blob)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&style=blob)
